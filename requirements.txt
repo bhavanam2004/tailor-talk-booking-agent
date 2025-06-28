@@ -6,3 +6,5 @@ google-api-python-client
 pytz
 dateparser
 langgraph
+uvicorn
+
