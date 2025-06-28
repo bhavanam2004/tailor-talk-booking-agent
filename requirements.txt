@@ -7,4 +7,5 @@ pytz
 dateparser
 langgraph
 uvicorn
+fastapi
 
